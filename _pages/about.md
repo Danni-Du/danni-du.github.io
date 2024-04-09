@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student in the Department of Atmospheric and Oceanic Sciences at University of Colorado Boulder. My Ph.D. advisors are Dr. Aneesh Subramanian and Dr. Weiqing Han. The main focus of my research work is to improve the prediction skill and understand the predictability in the tropics at subseasonal time scales. I am particularly interested in the Madden-Julian Oscillation (MJO) and the Indian Summer Monsoon (ISM), and the role that air-sea interaction plays in these phenomena. 
+I am Danni Du (杜旦尼), a fifth-year Ph.D. student in the Department of Atmospheric and Oceanic Sciences at University of Colorado Boulder. My Ph.D. advisors are Dr. Aneesh Subramanian and Dr. Weiqing Han. The main focus of my research work is to improve the prediction skill and understand the predictability in the tropics at subseasonal time scales. I am particularly interested in the Madden-Julian Oscillation (MJO) and the Indian Summer Monsoon (ISM), and the role that air-sea interaction plays in these phenomena. 
 
 Email
 ======
