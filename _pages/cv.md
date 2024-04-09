@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can also [click](http://danni-du.github.io/files/cv_2024.pdf) here to view my CV.
+
 Education
 ======
 * B.S. in Hydraulic Engineering, Tsinghua University, 2019
