@@ -19,7 +19,7 @@ A summary of my Ph.D. work
 
 Assessing the impact of the ocean data assimilation on MJO predictions in coupled subseasonal forecast models
 ------
-Though the atmospheric biases might hinder the contribution from the improved ocean initialization on the MJO prediction, a better initialization of the ocean stratification can lead to better forecasted ocean mixing and air-sea interactions, and thus more realistic MJO propagation across the Maritime Continent. 
+Though the atmospheric biases might hinder the contribution from the improved ocean initialization to the MJO prediction, a better initialization of the ocean stratification can lead to better forecasted ocean mixing and air-sea interactions, and thus more realistic MJO propagation across the Maritime Continent. 
 
 Investigating the MJO predictability change under global warming using an information theory technique
 ------
