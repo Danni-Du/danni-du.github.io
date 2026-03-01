@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can also click [here](http://danni-du.github.io/files/cv_2026.pdf) to view my CV.
+You can also click [here](http://danni-du.github.io/files/CV.pdf) to view my CV.
 
 Work experience
 ======
