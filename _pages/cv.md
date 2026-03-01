@@ -17,7 +17,7 @@ Work experience
   
 Education
 ======
-* Ph.D in Atmospheric and Oceanic Sciences, University of Colorado Boulder, 2019 - 2024 
+* Ph.D. in Atmospheric and Oceanic Sciences, University of Colorado Boulder, 2019 - 2024 
 * B.S. in Hydraulic Engineering, Tsinghua University, 2015 - 2019
 
 
