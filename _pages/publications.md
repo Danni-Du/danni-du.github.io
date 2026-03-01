@@ -14,6 +14,6 @@ author_profile: true
 * Du, D., Subramanian, A. C., Han, W., Wei, H. H., Sarojini, B. B., Balmaseda, M., & Vitart, F. (2023). [Assessing the Impact of Ocean In Situ Observations on MJO Propagation Across the Maritime Continent in ECMWF Subseasonal Forecasts](https://doi.org/10.1029/2022MS003044). Journal of Advances in Modeling Earth Systems, 15(2).
 
 Under review:
-* Du, D., Lu, F., Adcroft, A. (2026). [Reducing Model Biases with Machine Learning Corrections Derived from Ocean Data Assimilation Increments]([10.22541/essoar.176083747.76188196/v1](https://essopenarchive.org/users/980472/articles/1346718-reducing-model-biases-with-machine-learning-corrections-derived-from-ocean-data-assimilation-increments?commit=c8e2ea6ed4d0d590259820f125664e428214925a). Journal of Advances in Modeling Earth Systems. 
+* Du, D., Lu, F., Adcroft, A. (2026). [Reducing Model Biases with Machine Learning Corrections Derived from Ocean Data Assimilation Increments](10.22541/essoar.176083747.76188196/v2). Journal of Advances in Modeling Earth Systems. 
 * Yin, Z., Subramanian, A. C., Datta, R., Herrington, A. R., Du, D., Ali, S., Faruque, O., Wang, J. (2026). Identifying Energy Balance Drivers and Feedbacks of Greenland Ice Sheet Surface Melt Using Causal Discovery. Geophysical Research Letters.
 * Zanna, L., Gregory, W., Perezhogin, P., Sane, A., …, Du, D., … (2026). [A Framework for Hybrid Physics-AI Coupled Ocean Models](https://arxiv.org/abs/2510.22676). Science Advances.
